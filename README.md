@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hamxaShaukat
 - 👀 I’m interested in Data Science and Web app dev
+- 💻 I am currently a Mern stack developer along with next js expertise too.
 - 🌱 I’m currently learning Machine learning , Deep learning and Neural networks 
 - 📫 In order to reach me you can throw an email at Hamzashaukat714@gmail.com
 - 😄 Pronouns: Hamu
